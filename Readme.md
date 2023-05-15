@@ -1,6 +1,6 @@
 # WinUI bug
 
-## Auto-sized Grid row containing ScrollView containing a Rectangle ignores explicit HeightRequest on the Rectangle.
+## Auto-sized Grid row containing ScrollView containing a Rectangle ignores explicit HeightRequest on the Rectangle. MAUI bug [#15086](https://github.com/dotnet/maui/issues/15086)
 
 Given the following xaml:
 ```xaml
